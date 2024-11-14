@@ -97,3 +97,5 @@ https://github.com/Md-Anikul-Islam-Binju/job-portal
 
 
 ## Project work :
+
+* make Category model. design database.
